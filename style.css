@@ -53,7 +53,7 @@ body {
     position: absolute;
     right: 175px;
     bottom: 350px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .imageTwo {
@@ -64,7 +64,7 @@ body {
     position: absolute;
     right: 180px;
     bottom: 329px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .imageThree {
@@ -75,7 +75,7 @@ body {
     position: absolute;
     right: 173px;
     bottom: 342px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .imageFour {
@@ -87,7 +87,7 @@ body {
     right: 170px;
     bottom: 324px;
     transform: rotate(45deg);
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .imageFive {
@@ -99,7 +99,7 @@ body {
     right: 180px;
     bottom: 324px;
     transform: rotate(-45deg);
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .imageSix {
@@ -110,7 +110,7 @@ body {
     position: absolute;
     right: 195px;
     bottom: 320px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .imageSeven {
@@ -121,7 +121,7 @@ body {
     position: absolute;
     right: 210px;
     bottom: 320px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .imageEight {
@@ -132,7 +132,7 @@ body {
     position: absolute;
     right: 180px;
     bottom: 376px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .imageNine {
@@ -144,7 +144,7 @@ body {
     right: 200px;
     bottom: 372px;
     transform: rotate(-45deg);
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 .imageTen {
