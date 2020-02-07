@@ -489,15 +489,15 @@ document.addEventListener("click",(event)=> {
                     helper.push(i)
                     success++
                     gameLetters[i].textContent = "U"
-                    alphabet[25].style.backgroundColor = "blue"
-                    alphabet[25].style.color = "white"
+                    alphabet[26].style.backgroundColor = "blue"
+                    alphabet[26].style.color = "white"
                 }
             }
             if (helper.length == 0) {
                 failures++
-                alphabet[25].style.backgroundColor = "red"
-                alphabet[25].style.color = "white"
-                alphabet[25].disabled = "true"
+                alphabet[26].style.backgroundColor = "red"
+                alphabet[26].style.color = "white"
+                alphabet[26].disabled = "true"
             }
             break
         case event.target == alphabet[27]:
@@ -506,15 +506,15 @@ document.addEventListener("click",(event)=> {
                     helper.push(i)
                     success++
                     gameLetters[i].textContent = "W"
-                    alphabet[25].style.backgroundColor = "blue"
-                    alphabet[25].style.color = "white"
+                    alphabet[27].style.backgroundColor = "blue"
+                    alphabet[27].style.color = "white"
                 }
             }
             if (helper.length == 0) {
                 failures++
-                alphabet[25].style.backgroundColor = "red"
-                alphabet[25].style.color = "white"
-                alphabet[25].disabled = "true"
+                alphabet[27].style.backgroundColor = "red"
+                alphabet[27].style.color = "white"
+                alphabet[27].disabled = "true"
             }
             break
         case event.target == alphabet[28]:
@@ -523,15 +523,15 @@ document.addEventListener("click",(event)=> {
                     helper.push(i)
                     success++
                     gameLetters[i].textContent = "Y"
-                    alphabet[25].style.backgroundColor = "blue"
-                    alphabet[25].style.color = "white"
+                    alphabet[28].style.backgroundColor = "blue"
+                    alphabet[28].style.color = "white"
                 }
             }
             if (helper.length == 0) {
                 failures++
-                alphabet[25].style.backgroundColor = "red"
-                alphabet[25].style.color = "white"
-                alphabet[25].disabled = "true"
+                alphabet[28].style.backgroundColor = "red"
+                alphabet[28].style.color = "white"
+                alphabet[28].disabled = "true"
             }
             break
         case event.target == alphabet[29]:
@@ -540,15 +540,15 @@ document.addEventListener("click",(event)=> {
                     helper.push(i)
                     success++
                     gameLetters[i].textContent = "Z"
-                    alphabet[25].style.backgroundColor = "blue"
-                    alphabet[25].style.color = "white"
+                    alphabet[29].style.backgroundColor = "blue"
+                    alphabet[29].style.color = "white"
                 }
             }
             if (helper.length == 0) {
                 failures++
-                alphabet[25].style.backgroundColor = "red"
-                alphabet[25].style.color = "white"
-                alphabet[25].disabled = "true"
+                alphabet[29].style.backgroundColor = "red"
+                alphabet[29].style.color = "white"
+                alphabet[29].disabled = "true"
             }
             break
         case event.target == alphabet[30]:
@@ -557,15 +557,15 @@ document.addEventListener("click",(event)=> {
                     helper.push(i)
                     success++
                     gameLetters[i].textContent = "Ź"
-                    alphabet[25].style.backgroundColor = "blue"
-                    alphabet[25].style.color = "white"
+                    alphabet[30].style.backgroundColor = "blue"
+                    alphabet[30].style.color = "white"
                 }
             }
             if (helper.length == 0) {
                 failures++
-                alphabet[25].style.backgroundColor = "red"
-                alphabet[25].style.color = "white"
-                alphabet[25].disabled = "true"
+                alphabet[30].style.backgroundColor = "red"
+                alphabet[30].style.color = "white"
+                alphabet[30].disabled = "true"
             }
             break
         case event.target == alphabet[31]:
@@ -574,15 +574,15 @@ document.addEventListener("click",(event)=> {
                     helper.push(i)
                     success++
                     gameLetters[i].textContent = "Ż"
-                    alphabet[25].style.backgroundColor = "blue"
-                    alphabet[25].style.color = "white"
+                    alphabet[31].style.backgroundColor = "blue"
+                    alphabet[231].style.color = "white"
                 }
             }
             if (helper.length == 0) {
                 failures++
-                alphabet[25].style.backgroundColor = "red"
-                alphabet[25].style.color = "white"
-                alphabet[25].disabled = "true"
+                alphabet[31].style.backgroundColor = "red"
+                alphabet[31].style.color = "white"
+                alphabet[31].disabled = "true"
             }
             break
     }
