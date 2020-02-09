@@ -1,4 +1,4 @@
-const words = ["TAK","DZIEWCZYNA","ZEGAR","NIE","KRZESTO","MAŁPA","NIEBIESKI","PURPUROWY","ZOO","RÓZOWY","ŁÓŻKO","PIES","PAPUGA","KROGA","ŚWINIA","WĄŻ","CHŁOPAK","STÓT","MANDARYNKA","JABŁKO","TELEWIZOR","KOC","ZWIERZE","MONITOR","SAMOCHÓD"]
+const words = ["TAK","DZIEWCZYNA","ZEGAR","NIE","KRZESŁO","MAŁPA","NIEBIESKI","PURPUROWY","ZOO","RÓZOWY","ŁÓŻKO","PIES","PAPUGA","KROWA","ŚWINIA","WĄŻ","CHŁOPAK","STÓŁ","MANDARYNKA","JABŁKO","TELEWIZOR","KOC","ZWIERZĘ","MONITOR","SAMOCHÓD"]
 const challenge = () => {
     task = words[Math.floor(Math.random() *words.length)];
 }
