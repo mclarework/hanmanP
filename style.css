@@ -10,8 +10,8 @@ body {
 
 #main {
     display: flex;
-    height: 90%;
-    width: 90%;
+    height: 576px;
+    width: 324px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -34,14 +34,14 @@ body {
     height: 50%;
     width: 100%;
     align-items: center;
-    justify-content: flex-end;
     flex-direction: column;
 }
 
 #manArea {
     display: flex;
-    height: 50%;
+    height: 75%;
     width: 100%;
+    position: relative;
 }
 .imageOne {
     height: 10px;
@@ -51,9 +51,9 @@ body {
     border-width: 1px;
     border-radius: 50%;
     position: absolute;
-    right: 175px;
-    bottom: 350px;
-    margin-bottom: 25px;
+    right:162px;
+    bottom: 50px;
+
 }
 
 .imageTwo {
@@ -62,9 +62,8 @@ body {
     border-color: black;
     border-width: 1px;
     position: absolute;
-    right: 180px;
-    bottom: 329px;
-    margin-bottom: 25px;
+    right: 167px;
+    bottom: 29px;
 }
 
 .imageThree {
@@ -73,9 +72,8 @@ body {
     border-color: black;
     border-width: 1px;
     position: absolute;
-    right: 173px;
-    bottom: 342px;
-    margin-bottom: 25px;
+    right: 160px;
+    bottom: 45px;
 }
 
 .imageFour {
@@ -84,10 +82,9 @@ body {
     border-color: black;
     border-width: 1px;
     position: absolute;
-    right: 170px;
-    bottom: 324px;
+    right: 158px;
+    bottom: 25px;
     transform: rotate(45deg);
-    margin-bottom: 25px;
 }
 
 .imageFive {
@@ -96,10 +93,9 @@ body {
     border-color: black;
     border-width: 1px;
     position: absolute;
-    right: 180px;
-    bottom: 324px;
+    right: 166px;
+    bottom: 25px;
     transform: rotate(-45deg);
-    margin-bottom: 25px;
 }
 
 .imageSix {
@@ -108,9 +104,8 @@ body {
     border-color: black;
     border-width: 1px;
     position: absolute;
-    right: 195px;
-    bottom: 320px;
-    margin-bottom: 25px;
+    right: 182px;
+    bottom: 18px;
 }
 
 .imageSeven {
@@ -119,9 +114,8 @@ body {
     border-color: black;
     border-width: 1px;
     position: absolute;
-    right: 210px;
-    bottom: 320px;
-    margin-bottom: 25px;
+    right: 197px;
+    bottom: 20px;
 }
 
 .imageEight {
@@ -130,9 +124,8 @@ body {
     border-color: black;
     border-width: 1px;
     position: absolute;
-    right: 180px;
-    bottom: 376px;
-    margin-bottom: 25px;
+    right: 167px;
+    bottom: 78px;
 }
 
 .imageNine {
@@ -141,10 +134,9 @@ body {
     border-color: black;
     border-width: 1px;
     position: absolute;
-    right: 200px;
-    bottom: 372px;
+    right: 188px;
+    bottom: 74px;
     transform: rotate(-45deg);
-    margin-bottom: 25px;
 }
 
 .imageTen {
@@ -153,9 +145,8 @@ body {
     border-color: black;
     border-width: 1px;
     position: absolute;
-    right: 180px;
-    bottom: 361px;
-    margin-bottom: 25px;
+    right: 167px;
+    bottom: 62px;
 }
 
 .fail {
